@@ -1,0 +1,1 @@
+require('./helloword4')('李白')

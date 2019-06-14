@@ -1,0 +1,1 @@
+require('./helloword3')('小明')

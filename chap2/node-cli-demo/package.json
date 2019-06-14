@@ -1,0 +1,19 @@
+{
+  "name": "cli-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "badge": "bin/badge.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "npm publish",
+    "test": "node bin/badge.js -t js -n q"
+  },
+  "author": "",
+  "license": "ISC"
+}
